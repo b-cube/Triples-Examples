@@ -10,6 +10,8 @@ Jupyter Notebooks containing exmaples of triples generation for the supported re
 
 [OpenSearch](https://github.com/b-cube/Triples-Examples/blob/master/notebooks/OpenSearch.ipynb)
 
+[OAI-PMH](https://github.com/b-cube/Triples-Examples/blob/master/notebooks/OAI-PMH.ipynb)
+
 
 ####Dependencies
 
