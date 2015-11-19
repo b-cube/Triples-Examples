@@ -8,7 +8,9 @@ Jupyter Notebooks containing exmaples of triples generation for the supported re
 
 [ISO 19115/19139](https://github.com/b-cube/Triples-Examples/blob/master/notebooks/ISO%2019115.ipynb)
 
-[OpenSearch]()
+[OpenSearch](https://github.com/b-cube/Triples-Examples/blob/master/notebooks/OpenSearch.ipynb)
+
+[OAI-PMH](https://github.com/b-cube/Triples-Examples/blob/master/notebooks/OAI-PMH.ipynb)
 
 
 ####Dependencies
